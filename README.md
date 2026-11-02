@@ -13,12 +13,23 @@ Click the button below, or add this repository URL to Morphe Manager manually: h
 ## Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/CharlesAttend/beeper-morphe-patch/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Beeper&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-<!-- Do not modify this section by hand. The release workflow (release.yml) makes the patch list. -->
+**Package name:** `com.beeper.android`
 
-| Patch | Description | Beeper version |
-|-------|-------------|----------------|
-| Hide transcribe button | Hides the transcribe button below voice messages in chats. Existing transcriptions and auto-transcribe are not changed. | 4.61.1 |
+**🎯 Supported versions:**
+
+| 4.61.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Hide transcribe button](#hide-transcribe-button) | Hides the transcribe button below voice messages in chats. Existing transcriptions and auto-transcribe are not changed. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
